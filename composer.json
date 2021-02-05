@@ -1,0 +1,8 @@
+{
+  "name": "magmodules/magento1-sortbydate",
+  "license": ["GPL-3.0"],
+  "type": "magento-module",
+    "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  }
